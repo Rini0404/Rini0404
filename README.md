@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rene Ortega!
-- 🌱 I am A Full Stack Developer!
+- 🌱 I am A Native/Web Full Stack Developer!
 - 📫 How to reach me: 
 - Email: reneortega2468@gmail.com
 - Summary: Working with React DOM and React Navtive!
