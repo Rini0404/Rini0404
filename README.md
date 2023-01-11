@@ -2,4 +2,4 @@
 - 🌱 I am A Native/Web Full Stack Developer!
 - 📫 How to reach me: 
 - Email: reneortega2468@gmail.com
-- Summary: Working with React DOM and React Navtive!
+- Summary: Working with React DOM and React Native!
