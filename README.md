@@ -1,5 +1,3 @@
-
-ChatGPT
 👋 Hello, world! I'm Rene Ortega!
 
 I'm a zealous Full Stack Developer, specializing in both web and native app development. An ardent lover of coding, I am passionate about building immersive digital experiences that bridge the gap between technology and people.
